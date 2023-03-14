@@ -12,11 +12,11 @@ I have over a year of experience in building responsive and intuitive user inter
 
 ### My GitHub stats:
 
-![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhaitis612&show_icons=true&theme=radical)
+![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talhaitis612&show_icons=true&theme=radical)
 
 ### My top programming languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaitis612&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhaitis612&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My projects:
 
@@ -28,6 +28,6 @@ Here are some of the projects I've been working on:
 
 Here's a chart that shows my proficiency in various programming languages:
 
-![Programming Languages Chart](https://raw.githubusercontent.com/talhaitis612/my-project/main/languages.svg)
+![Programming Languages Chart](https://raw.githubusercontent.com/Talhaitis612/my-project/main/languages.svg)
 
 Thanks for stopping by! Feel free to check out my portfolio and get in touch if you'd like to connect or collaborate on a project. 🙌
