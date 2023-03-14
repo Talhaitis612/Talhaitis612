@@ -18,16 +18,8 @@ I have over a year of experience in building responsive and intuitive user inter
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhaitis612&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### My projects:
 
-Here are some of the projects I've been working on:
 
-- [Project 1][(https://github.com/Talhaitis612/recipe-application)] - Description 
 
-### My animated charts:
-
-Here's a chart that shows my proficiency in various programming languages:
-
-![Programming Languages Chart](https://raw.githubusercontent.com/Talhaitis612/my-project/main/languages.svg)
 
 Thanks for stopping by! Feel free to check out my portfolio and get in touch if you'd like to connect or collaborate on a project. 🙌
