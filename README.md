@@ -16,7 +16,7 @@ I have over a year of experience in building responsive and intuitive user inter
 
 ### My top programming languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhaitis612)](https://github.com/Talhaitis612/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhaitis612&hide=python)](https://github.com/Talhaitis612/github-readme-stats)
 
 
 
