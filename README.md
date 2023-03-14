@@ -2,16 +2,32 @@
 
 I have over a year of experience in building responsive and intuitive user interfaces using Angular, and I am constantly striving to expand my skill set and learn new technologies.
 
-My ultimate goal is to become a Full-Stack Developer and beyond, and I am excited about the opportunities that lie ahead as I continue to grow in my career.
+### My skills:
 
-Here are some of the things I'm currently working on and interested in:
+- Angular
+- TypeScript
+- HTML
+- CSS
+- JavaScript
 
-- Building robust and scalable applications using Angular, TypeScript, HTML, and CSS.
-- Expanding my knowledge of back-end development with Node.js, Express, and MongoDB.
-- Learning new front-end frameworks and libraries such as React and Vue.js.
-- Exploring cloud-based technologies such as AWS and Azure.
-- Contributing to open-source projects and collaborating with other developers.
+### My GitHub stats:
 
-I am always seeking new challenges and opportunities to grow both personally and professionally, and I believe that continuous learning is the key to success in this field.
+![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=talhaitis612&show_icons=true&theme=radical)
 
-Feel free to check out my portfolio and get in touch if you'd like to connect or collaborate on a project. Thanks for stopping by! 🙌
+### My top programming languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaitis612&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### My projects:
+
+Here are some of the projects I've been working on:
+
+- [Project 1][(https://github.com/Talhaitis612/recipe-application)] - Description 
+
+### My animated charts:
+
+Here's a chart that shows my proficiency in various programming languages:
+
+![Programming Languages Chart](https://raw.githubusercontent.com/talhaitis612/my-project/main/languages.svg)
+
+Thanks for stopping by! Feel free to check out my portfolio and get in touch if you'd like to connect or collaborate on a project. 🙌
